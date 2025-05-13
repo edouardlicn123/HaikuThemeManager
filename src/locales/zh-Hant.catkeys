@@ -1,0 +1,24 @@
+1	Chinese (traditional)	application/x-vnd.mmu_man-ThemeManager	3433625334
+(Application not installed)	ThemeAddonItem		（應用程式未安裝）
+Apply	ThemeAddonItem		應用
+Apply these settings from themes	ThemeAddonItem		根據主題套用這些設定
+Global	ThemeAddonItem		整體
+Open the preference panel for this item	ThemeAddonItem		打開此項目的偏好設定面板。
+Preferences	ThemeAddonItem		系统偏好设置
+Save	ThemeAddonItem		儲存
+Save these settings to themes	ThemeAddonItem		將這些設定儲存至主題。
+Set apply/save actions for all items	ThemeAddonItem		為所有項目設定套用 / 儲存動作
+Add screenshot	ThemeInterfaceView		新增螢幕截圖
+Apply	ThemeInterfaceView		應用
+Defaults	ThemeInterfaceView		預設
+Delete	ThemeInterfaceView		刪去
+Details	ThemeInterfaceView		細節
+More themes	ThemeInterfaceView		更多主題
+New	ThemeInterfaceView		新
+No screenshot	ThemeInterfaceView		無螢幕截圖
+No theme selected	ThemeInterfaceView		未選取任何主題
+Ok	ThemeInterfaceView		Ok
+Options	ThemeInterfaceView		選項
+Save	ThemeInterfaceView		儲存
+Screenshot	ThemeInterfaceView		螢幕截圖
+Theme Manager	ThemesApp		主題管理程式
